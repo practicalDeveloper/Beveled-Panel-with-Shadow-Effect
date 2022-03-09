@@ -1,0 +1,15 @@
+C:\Users\yjuhno\Desktop\Job\AdvancedPanelExample\BevelPanel\bin\Debug\BevelPanel.dll
+C:\Users\yjuhno\Desktop\Job\AdvancedPanelExample\BevelPanel\bin\Debug\BevelPanel.pdb
+C:\Users\yjuhno\Desktop\Job\AdvancedPanelExample\BevelPanel\obj\Debug\BevelPanel.dll
+C:\Users\yjuhno\Desktop\Job\AdvancedPanelExample\BevelPanel\obj\Debug\BevelPanel.pdb
+C:\Users\yjuhno\Desktop\Job\AdvancedPanelExample\BevelPanel\obj\Debug\BevelPanel.csprojResolveAssemblyReference.cache
+C:\Users\yjuhno\Desktop\Job\Codepproject_Articles\AdvancedPanelExample\BevelPanel\bin\Debug\BevelPanel.dll
+C:\Users\yjuhno\Desktop\Job\Codepproject_Articles\AdvancedPanelExample\BevelPanel\bin\Debug\BevelPanel.pdb
+C:\Users\yjuhno\Desktop\Job\Codepproject_Articles\AdvancedPanelExample\BevelPanel\obj\Debug\BevelPanel.csprojResolveAssemblyReference.cache
+C:\Users\yjuhno\Desktop\Job\Codepproject_Articles\AdvancedPanelExample\BevelPanel\obj\Debug\BevelPanel.dll
+C:\Users\yjuhno\Desktop\Job\Codepproject_Articles\AdvancedPanelExample\BevelPanel\obj\Debug\BevelPanel.pdb
+C:\Users\yjuhno\Desktop\Article_AdvancedPanel\AdvancedPanelExample\AdvancedPanelExample\BevelPanel\bin\Debug\BevelPanel.dll
+C:\Users\yjuhno\Desktop\Article_AdvancedPanel\AdvancedPanelExample\AdvancedPanelExample\BevelPanel\bin\Debug\BevelPanel.pdb
+C:\Users\yjuhno\Desktop\Article_AdvancedPanel\AdvancedPanelExample\AdvancedPanelExample\BevelPanel\obj\Debug\BevelPanel.csprojResolveAssemblyReference.cache
+C:\Users\yjuhno\Desktop\Article_AdvancedPanel\AdvancedPanelExample\AdvancedPanelExample\BevelPanel\obj\Debug\BevelPanel.dll
+C:\Users\yjuhno\Desktop\Article_AdvancedPanel\AdvancedPanelExample\AdvancedPanelExample\BevelPanel\obj\Debug\BevelPanel.pdb
