@@ -13,3 +13,9 @@ C:\Users\yjuhno\Desktop\Article_AdvancedPanel\AdvancedPanelExample\AdvancedPanel
 C:\Users\yjuhno\Desktop\Article_AdvancedPanel\AdvancedPanelExample\AdvancedPanelExample\BevelPanel\obj\Debug\BevelPanel.csprojResolveAssemblyReference.cache
 C:\Users\yjuhno\Desktop\Article_AdvancedPanel\AdvancedPanelExample\AdvancedPanelExample\BevelPanel\obj\Debug\BevelPanel.dll
 C:\Users\yjuhno\Desktop\Article_AdvancedPanel\AdvancedPanelExample\AdvancedPanelExample\BevelPanel\obj\Debug\BevelPanel.pdb
+D:\YJuhno\Git\Beveled-Panel-with-Shadow-Effect\AdvancedPanelExample\BevelPanel\bin\Debug\BevelPanel.dll
+D:\YJuhno\Git\Beveled-Panel-with-Shadow-Effect\AdvancedPanelExample\BevelPanel\bin\Debug\BevelPanel.pdb
+D:\YJuhno\Git\Beveled-Panel-with-Shadow-Effect\AdvancedPanelExample\BevelPanel\obj\Debug\BevelPanel.csproj.AssemblyReference.cache
+D:\YJuhno\Git\Beveled-Panel-with-Shadow-Effect\AdvancedPanelExample\BevelPanel\obj\Debug\BevelPanel.csproj.CoreCompileInputs.cache
+D:\YJuhno\Git\Beveled-Panel-with-Shadow-Effect\AdvancedPanelExample\BevelPanel\obj\Debug\BevelPanel.dll
+D:\YJuhno\Git\Beveled-Panel-with-Shadow-Effect\AdvancedPanelExample\BevelPanel\obj\Debug\BevelPanel.pdb

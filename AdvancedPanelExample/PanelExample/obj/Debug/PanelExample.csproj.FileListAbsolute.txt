@@ -20,3 +20,15 @@ C:\Users\yjuhno\Desktop\Article_AdvancedPanel\AdvancedPanelExample\AdvancedPanel
 C:\Users\yjuhno\Desktop\Article_AdvancedPanel\AdvancedPanelExample\AdvancedPanelExample\PanelExample\obj\Debug\PanelExample.csproj.GenerateResource.Cache
 C:\Users\yjuhno\Desktop\Article_AdvancedPanel\AdvancedPanelExample\AdvancedPanelExample\PanelExample\obj\Debug\PanelExample.exe
 C:\Users\yjuhno\Desktop\Article_AdvancedPanel\AdvancedPanelExample\AdvancedPanelExample\PanelExample\obj\Debug\PanelExample.pdb
+D:\YJuhno\Git\Beveled-Panel-with-Shadow-Effect\AdvancedPanelExample\PanelExample\bin\Debug\PanelExample.exe
+D:\YJuhno\Git\Beveled-Panel-with-Shadow-Effect\AdvancedPanelExample\PanelExample\bin\Debug\PanelExample.pdb
+D:\YJuhno\Git\Beveled-Panel-with-Shadow-Effect\AdvancedPanelExample\PanelExample\bin\Debug\BevelPanel.dll
+D:\YJuhno\Git\Beveled-Panel-with-Shadow-Effect\AdvancedPanelExample\PanelExample\bin\Debug\BevelPanel.pdb
+D:\YJuhno\Git\Beveled-Panel-with-Shadow-Effect\AdvancedPanelExample\PanelExample\obj\Debug\PanelExample.csproj.AssemblyReference.cache
+D:\YJuhno\Git\Beveled-Panel-with-Shadow-Effect\AdvancedPanelExample\PanelExample\obj\Debug\PanelExample.Form1.resources
+D:\YJuhno\Git\Beveled-Panel-with-Shadow-Effect\AdvancedPanelExample\PanelExample\obj\Debug\PanelExample.Properties.Resources.resources
+D:\YJuhno\Git\Beveled-Panel-with-Shadow-Effect\AdvancedPanelExample\PanelExample\obj\Debug\PanelExample.csproj.GenerateResource.cache
+D:\YJuhno\Git\Beveled-Panel-with-Shadow-Effect\AdvancedPanelExample\PanelExample\obj\Debug\PanelExample.csproj.CoreCompileInputs.cache
+D:\YJuhno\Git\Beveled-Panel-with-Shadow-Effect\AdvancedPanelExample\PanelExample\obj\Debug\PanelExample.csproj.CopyComplete
+D:\YJuhno\Git\Beveled-Panel-with-Shadow-Effect\AdvancedPanelExample\PanelExample\obj\Debug\PanelExample.exe
+D:\YJuhno\Git\Beveled-Panel-with-Shadow-Effect\AdvancedPanelExample\PanelExample\obj\Debug\PanelExample.pdb
